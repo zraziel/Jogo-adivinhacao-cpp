@@ -57,6 +57,3 @@ g++ jogo.cpp -o jogo
 
 3-Execute o programa 
 ./jogo
-
-3-Execute o programa 
-./jogo
