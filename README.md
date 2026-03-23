@@ -1,6 +1,6 @@
 # 🎯 Jogo de Adivinhação em C++
 
-Projeto desenvolvido em **C++** durante meus estudos no curso de **Análise e Desenvolvimento de Sistemas (UNIBRA)**.  
+Projeto desenvolvido em **C++** durante meus estudos no curso de **Análise e Desenvolvimento de Sistemas.**  
 O objetivo foi praticar **lógica de programação**, **funções**, **condições** e **manipulação de arquivos**.
 
 ---
